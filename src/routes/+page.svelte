@@ -55,7 +55,7 @@
 					y: points[i].y - controlDistance * 0.5 // Close approach from above
 				};
 			} else {
-				// Middle points - flow at specified angle through the point
+				// Middle points - flow at specified angle through the points
 				const prev = points[i - 1];
 				const next = points[i + 1];
 
