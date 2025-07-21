@@ -471,7 +471,7 @@
 
 	<div class="mt-8 flex flex-col items-center gap-3 z-10 max-md:scale-90">
 		<a
-			href=""
+			href="https://johnf008.github.io/daydream_rgv/"
 			target="_blank"
 			class="w-max px-8 py-6 bg-pink border-b-2 border-b-pink-dark text-white rounded-full active:transform active:translate-y-0.5 transition-all duration-100 font-sans cursor-pointer mx-auto relative overflow-hidden hover:shadow-[0_2px_0_0_theme(colors.pink.dark)] hover:-translate-y-[2px] active:border-transparent active:shadow-none active:"
 		>
